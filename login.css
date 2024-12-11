@@ -1,0 +1,16 @@
+.container {
+    margin-top: 6%;
+    width: 40%;
+    background-color: aliceblue;
+    height: 350px;
+}
+
+.container>form {
+    margin-top: 30px;
+    margin-left: 92px;
+}
+
+.container>p {
+    font-size: 30px;
+    margin-top: 8%;
+}
